@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gestionext
-- 👀 I’m interested in Apps develop
-- 🌱 I’m currently learning Android Studio
+- 👀 I’m interested in mobile Apps develop
+- 🌱 I’m currently using Android Studio
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me. Write to gestionext2018@gmail.com 
 
